@@ -1,5 +1,13 @@
 # Voxtype Keybind - Omarchy
 
+## Video Guide
+
+<p align="center">
+  <a href="https://youtu.be/iRutzefEWsg">
+    <img src="https://img.youtube.com/vi/iRutzefEWsg/0.jpg" width="700">
+  </a>
+</p>
+
 Customise how [Voxtype](https://omarchy.com) dictation works in [Omarchy](https://omarchy.com). Switch between push-to-talk (hold to dictate) and toggle mode (press to start/stop), or bind dictation to any key on your keyboard.
 
 ## Scripts
